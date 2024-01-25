@@ -2,4 +2,4 @@ first
 
 second.after merge
 
-third.sss
+third.s
